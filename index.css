@@ -1,0 +1,105 @@
+header{
+    background-color: rgba(66, 191, 66, 0.859);
+    height:100px;
+    padding: 0%;
+    bottom: 0px;
+    margin-bottom: 0;
+
+}
+body{
+    margin: 0px;
+}
+.bc{
+    background-color: rgb(144, 218, 146);
+    height: 1500px;
+}
+.container{
+    background-color: rgb(178, 239, 194);
+    height: 1500px;
+    margin-left: 100px;
+    margin-right: 100px;
+    top: 0;
+    margin-top: 0;
+}
+.heading{
+    top: 0;
+    margin-top: 0px;
+    text-align: center;
+    padding: 20px;
+}
+.Box{
+    margin:40px
+}
+.para-1{
+    background-color: gray;
+    height: 200px;
+    padding: 30px;
+}
+
+.head-1{
+    display: inline;
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+.head-2{
+    display: inline;
+    width: 50%;
+    text-align: center;
+    float:right;
+}
+.p1{
+    width:46%;
+    display:inline;
+    float:left;
+    background-color: grey;
+    padding: 10px;
+    height: 200px;
+    
+}
+.p2{
+    width: 46%;
+    display:inline;
+    float:right;
+    background-color: grey;
+    padding:10px;
+    height: 200px;
+}
+.list-1
+{
+    
+    float:left;
+    width: 50%;
+
+}
+.list-2
+{
+    float: right;
+    width: 44%;
+    border-left: 150px;
+}
+li{
+    background-color: grey;
+    height: 30px;
+    width:600px;
+    
+}
+
+.frm{
+    margin-top: 600px;
+    padding-left:50%;
+}
+.frm1
+{
+    padding-left: 35%;
+    background-color: rgb(170, 168, 168);
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+
+
+
+
+
